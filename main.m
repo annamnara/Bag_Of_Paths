@@ -22,7 +22,7 @@ N = 20
 nFold = 10; % never change this parameter !!!
 
 for DB = [1:1]     
-    
+   % currently I am using only one dataset 
     db = {'mywisconsin_cocite'};          
 
     load(db{DB}) 
