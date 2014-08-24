@@ -1,0 +1,4 @@
+Methode:BagOfP
+Database:mywisconsin_cocite
+AccTest : 68.559252
+-------------
